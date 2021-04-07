@@ -24,6 +24,6 @@ texture pack:
 <!-- Adding link to the button on the onclick event -->
 <button class="GFG" 
 onclick="window.location.href = 'MDpvppack.github.io/website/mdpvppack/';"> 
-    About the server
+    MDpvpack
 </button> 
 
