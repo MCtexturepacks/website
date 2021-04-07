@@ -1,7 +1,7 @@
 ---
 layout: template
 title: "PAGE TITLE"
-permalink: /about/
+permalink: /mdpvppack/
 ---
 
 # This is my pvp pack
