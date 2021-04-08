@@ -30,9 +30,7 @@ onclick="window.location.href = '/website/mdpvppack/';">
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101310454);</script>
 <script async src="//static.getclicky.com/js"></script>
 
-if(readCookie('cookie-notice-dismissed')=='true') {
-    {% include ga.js %}
-    {% include chatbutton.js %}
-}
+
+
 
 
