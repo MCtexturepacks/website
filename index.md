@@ -29,11 +29,6 @@ onclick="window.location.href = '/website/mdpvppack/';">
 
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101310454);</script>
 <script async src="//static.getclicky.com/js"></script>
-<div class=’cookie-banner’ style=’display: none’>
-<p>
-<div id="cookieConsent">
-    <div id="closeCookieConsent">x</div>
-    This website is using cookies. <a href="#" target="_blank">More info</a>. <a class="cookieConsentOK">That's Fine</a>
-</div>
 
+    
 
