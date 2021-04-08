@@ -31,8 +31,6 @@ onclick="window.location.href = '/website/mdpvppack/';">
 <script async src="//static.getclicky.com/js"></script>
 
 
-if(readCookie('cookie-notice-dismissed')=='true') {
-    {% include ga.js %}
     {% include chatbutton.js %}
 }
 
