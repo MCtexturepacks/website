@@ -7,4 +7,4 @@ permalink: /mdpvppack/
 # This is my pvp pack
 Images coming soon 
 
-Pack still needs to be verified on planet minecraft
+Download: www.mediafire.com/file/rums0gy1505i8n6/MD_PVP_Pack.zip/file
