@@ -36,5 +36,3 @@ Images coming soon
 
 <p>Download it:</p>
 <button class="btn"><i class="fa fa-download"></i> Download</button>
-
-OLD versions not recommended: www.mediafire.com/file/rums0gy1505i8n6/MD_PVP_Pack.zip/file version 1.0 Beta
