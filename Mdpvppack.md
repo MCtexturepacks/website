@@ -34,13 +34,7 @@ Newest Version: https://gofile.io/d/WpvH50 version 1.2 Beta
 
 <h2>DOWNLOAD</h2>
 
-<p>Auto width:</p>
+<p>Download it:</p>
 <button class="btn"><i class="fa fa-download"></i> Download</button>
-
-<p>Full width:</p>
-<button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button>
-
-</body>
-</html>
 
 OLD versions not recommended: www.mediafire.com/file/rums0gy1505i8n6/MD_PVP_Pack.zip/file version 1.0 Beta
