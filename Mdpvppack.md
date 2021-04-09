@@ -7,7 +7,7 @@ permalink: /mdpvppack/
 # This is my pvp pack
 Images coming soon 
 
-Newest Version: https://gofile.io/d/WpvH50 version 1.2 Beta
+
 <!DOCTYPE html>
 <html>
 <head>
